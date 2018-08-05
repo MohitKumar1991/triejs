@@ -1,0 +1,19 @@
+{
+  "name": "compressedtrie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mohit Jandwani",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.4.2",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "jest"
+    
+  },
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost/"
+  }
+}
